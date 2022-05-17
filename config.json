@@ -1,0 +1,15 @@
+{
+  "$schema": "https://ddns.newfuture.cc/schema/v2.8.json",
+  "debug": false,
+  "dns": "cloudflare",
+  "id": "xxx@163.com",
+  "index4": "url:https://www.clientip.org",
+  "index6": "default",
+  "ipv4": [
+    "baidu.com"
+  ],
+  "cache": false,
+  "proxy": null,
+  "token": "key",
+  "ttl": 60
+}
