@@ -2,6 +2,7 @@
 ```
 curl -L https://github.com/steamsv/ddns-cf/raw/main/ddns -o /usr/bin/ddns
 chmod +x /usr/bin/ddns
+mkdir /etc/ddns
 ```
 
 ## 配置
